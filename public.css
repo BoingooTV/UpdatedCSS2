@@ -21,6 +21,10 @@
     width: 0px !important;
 }
 
+}
+ .clan-tag {
+	animation: rainbow 1.3s linear infinite;
+}
 
 /* General */
 .crosshair-static {
