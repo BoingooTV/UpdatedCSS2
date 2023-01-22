@@ -112,8 +112,8 @@ Please do give credit if you decided to recolor :)
 
 .interface .background {
   background: url(https://cdn.discordapp.com/attachments/380930228488503307/1066790467745894430/newpattern.png) repeat !important;
-  height: 100%;
-  background-position: 0px 0px;
+  height: 300%;
+  background-position: 5px 0px;
   -webkit-animation: animate 10s linear infinite !important;
 }
 
